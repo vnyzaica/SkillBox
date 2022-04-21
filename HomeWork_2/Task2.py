@@ -1,0 +1,6 @@
+quarter_1 = int(input("Результат первого квартала: "))
+quarter_2 = int(input("Результат второго квартала: "))
+quarter_3 = int(input("Результат третьего квартала: "))
+quarter_4 = int(input("Результат четвёртого квартала: "))
+result = (quarter_1 + quarter_2)/(quarter_3 + quarter_4)
+print(result)

@@ -1,0 +1,5 @@
+Name = input("Введите имя: ")
+Surname = input("Введите фамилию: ")
+print("Вас зовут")
+print(Name)
+print(Surname)
